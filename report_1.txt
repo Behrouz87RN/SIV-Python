@@ -1,0 +1,5 @@
+Monitored directory   : /var/log
+Verification file     : /media/sf_share/SIV/db.csv
+Number of directories : 15
+Number of files       : 212
+Execution time        : 8.365992s
